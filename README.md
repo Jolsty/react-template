@@ -11,4 +11,5 @@ It was developed and tested on `node (12.18.2)` with `npm (6.14.5)`. You can upd
 # How to run
 
 `npm run start` to start a local development server
+
 `npm run build` to build a production application
