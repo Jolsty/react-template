@@ -1,12 +1,12 @@
 # React Template
 
-React Template with Webpack, Babel, ESLint and Prettier (doesn't use CRA).
+React Template with Webpack, Babel, ESLint and Prettier.
 
 # Notes
 
-This template was developed by [Andrei Ciulpan](https://github.com/Jolsty) as a free React template (for anyone that doesn't want to use CRA).
+This is a React template (for anyone that doesn't want to use CRA).
 
-It was developed and tested on `node (12.18.2)` with `npm (6.14.5)`. You can update them at any time.
+It was developed and tested on `node (12.18.2)` with `npm (6.14.5).
 
 # How to run
 
